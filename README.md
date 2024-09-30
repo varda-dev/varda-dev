@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @varda-dev
+- 👀 I’m interested in Minecraft Modpacks
+- 🌱 I’m currently learning KubeJS
+- 💞️ I’m looking to collaborate on my Varda modpack
+- 📫 How to reach me - Discord
